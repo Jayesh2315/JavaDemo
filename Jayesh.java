@@ -4,4 +4,8 @@ class Jayesh
       {
           ///code
       }
+     public void m1()
+      {
+          ///code2
+      }
  }
